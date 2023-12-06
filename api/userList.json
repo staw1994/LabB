@@ -2,7 +2,8 @@
 		"userid": 1,
 		"username": "Bret",
 		"email": "Sincere@april.biz",
-		"phone": "1 - 1770 - 736 - 8031",
+		"corpid": "bas595"	
+		"phone": "1-1770-736-8031",
 		"address": "Kulas Light",
 		"status": 1
 	},
@@ -10,6 +11,7 @@
 		"userid": 2,
 		"username": "Antonette",
 		"email": "Shanna@melisa.tv",
+		"corpid": "san595"	
 		"phone": "010-692-6593",
 		"address": "Victor Plains",
 		"status": 2
@@ -18,6 +20,7 @@
 		"userid": 3,
 		"username": "Samantha",
 		"email": "Nathan@yesenia.net",
+		"corpid": "NS595"	
 		"phone": "1-463-123-4447",
 		"address": "Douglas Extension",
 		"status": 1
@@ -25,6 +28,7 @@
 		"userid": 4,
 		"username": "Karianne",
 		"email": "Julianne.OConner@kory.org",
+		"corpid": "JOK595"			
 		"phone": "493-170-9623",
 		"address": "Hoeger Mall",
 		"status": 1
@@ -32,12 +36,14 @@
 		"userid": 5,
 		"username": "Kamren",
 		"email": "Lucio_Hettinger@annie.ca",
+		"corpid": "kam595"		
 		"phone": "01-254-0954-1289",
 		"address": "Skiles Walks",
 		"status": 0
 	}, {
 		"userid": 6,
-		"username": "Cedric Tang",
+		"username": "Cedric TANG, HOIT&HI AP(CDC3)5",
+		"corpid": "tyl595"
 		"email": "Cedric.Tang.test@ha.org.hk",
 		"phone": "852-1234-5678",
 		"address": "Kitec 7f",
