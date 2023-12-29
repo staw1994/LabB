@@ -36,7 +36,6 @@ jobs:
           echo test, and deploy your project.
 
       # upload-artifacts
-      - run: npm test -- --coverage
       - name: Archive coverage results
         uses: actions/upload-artifact@v3
         with:
